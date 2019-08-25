@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Great Fighter';
+    src: url('GreatFighter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar-brand {
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  overflow: hidden;
+  padding: 20px 10px;
+}
+.navbar {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+}
+
+body {
+  padding-top: 10%;
+}
+
+sobre, .circle {
+  background-color: #aaa;
+  border: 3px solid #73AD21;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+#sobre {
+  padding-top:6%;
+}
+
+sobre, .circle img {
+  position: center;
+  bottom: 0;
+  width: 100%;
+}
+.sobre{
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  overflow: hidden;
+  padding: 20px 10px;
+  text-align: center;
+  margin:3%;
+}
+.sobre,p {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+  text-align: center;
+}
+h1{
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  overflow: hidden;
+  padding: 20px 10px;
+  text-align: center;
+  margin:5%;
+}
+.projetos{
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  padding-top: 3%;
+  text-align: center;
+  margin-top:6%;
+  margin-bottom:10%;
+}
+
+.contato {
+  text-align:center;
+}
+.contato img {
+  display:inline-block;
+  margin-bottom: 10%;
+}
+.final{
+  color:white;
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+  text-align: center;
+  background-color: rgb(52,58,64);
+}
+
+.log {
+	color: orange;
+}

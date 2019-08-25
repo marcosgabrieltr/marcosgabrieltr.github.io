@@ -1,0 +1,6 @@
+O jogo se trata de um tower defense, no caso, o jogador deve defender uma "torre" dos inimigos que tentam atacala.
+controles:
+setas direita e esquerda movimentam o personagem.
+seta para cima pula.
+tecla  atira a espada.
+o jogador deve atingir o inimigo com a espada para derrota-lo, caso contrario perde vida, começando com 4, pode-se coletar mais ao decorrer do jogo.

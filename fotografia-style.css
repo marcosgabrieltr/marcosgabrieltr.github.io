@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Great Fighter';
+    src: url('GreatFighter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar-brand {
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  overflow: hidden;
+  padding: 20px 10px;
+  margin: 0 !important;
+}
+.navbar {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+}
+
+body {
+  padding-top: 6%;
+}
+
+.imagem {
+  width: full;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+img {
+  position: relative;
+  bottom: 110%;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.lbox {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.book {
+  width: 880px;
+  list-style: none;
+  display: flex;
+  margin: 300px auto;
+}
+.min {
+  width: 200px;
+  padding:10px;
+}
+.lbox:target {
+  opacity: 1;
+  visibility: visible;
+  height: 100px;
+  top:0;
+  left: 0;
+  background: rgba(10,10,10,10,.7);
+  position: fixed;
+}
+
+
+.final{
+  color:white;
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+  text-align: center;
+  background-color: rgb(52,58,64);
+}
+.log {
+	color: orange;
+}

@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Great Fighter';
+    src: url('GreatFighter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar-brand {
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  overflow: hidden;
+  padding: 20px 10px;
+}
+.navbar {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+}
+
+h1 {
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+}
+
+p {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+}
+
+body {
+  padding-top: 6%;
+}
+
+.imagem {
+  width: full;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+img {
+  position: relative;
+  bottom: 105%;
+  width: 100%;
+}
+
+#canvas {
+  margin:auto;
+}
+
+.comandos {
+  text-align:center;
+  margin-left:220px;
+  margin-right:220px;
+}
+.final{
+  color:white;
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+  text-align: center;
+  background-color: rgb(52,58,64);
+}
+.log {
+	color: orange;
+}

@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Great Fighter';
+    src: url('GreatFighter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+p {
+  text-indent:4em;
+}
+.navbar-brand {
+  font-family: 'Great Fighter', Arial, Tahoma, Sans-serif;
+  overflow: hidden;
+  padding: 20px 10px;
+}
+.navbar {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+}
+
+body {
+  padding-top: 6%;
+}
+
+h1 {
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+}
+
+.imagem {
+  width: full;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.icone {
+  width:350px;
+  float:left;
+  padding-right: 50px;
+}
+
+#imagem {
+  position: relative;
+  bottom: 105%;
+  width: 100%;
+}
+
+.tetelestai {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom:30px;
+  padding-bottom:1px;
+}
+.tetelestai:hover {
+  background-color:grey;
+}
+
+.ja {
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-bottom:49px;
+  margin-bottom: 30px;
+}
+.ja:hover {
+  background-color:grey;
+}
+
+.cover {
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-bottom:1px;
+  margin-bottom:30px;
+}
+.cover:hover {
+  background-color:grey;
+}
+
+.curta {
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-bottom:49px;
+  margin-bottom:30px;
+}
+.curta:hover {
+  background-color:grey;
+}
+
+.final{
+  color:white;
+  font-family: 'Lexend Deca', Arial, Tahoma, Sans-serif;
+  text-align: center;
+  background-color: rgb(52,58,64);
+}
+.log {
+	color: orange;
+}
